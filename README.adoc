@@ -9,3 +9,5 @@ Test for http://stackoverflow.com/questions/26926289/spring-boot-joda-datetime-s
 	$ curl localhost:8080/info                                                                                                                                                                                                                 ✱
 	{"dateTime":"2014-11-19"}
 ----
+
+Collin Peters - modified to use Java 8 time classes to test the same question. My question was posted to Gitter spring-boot July 1st, 2015
